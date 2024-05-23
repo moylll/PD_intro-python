@@ -6,6 +6,6 @@ Repositório destinado a todas as atividades do projeto da disciplina descrita
 
 - Projeto Desenvolve Itabira
 
-- Programação Básica Web
+- Programação Básica Python
 
 - PDITA 253
