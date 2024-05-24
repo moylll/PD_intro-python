@@ -1,0 +1,9 @@
+   #ENTRADA
+1- Ler e armazenar o número n que se deseja multiplicar por 9.
+   
+   #PROCESSAMENTO
+2- Subtrair n-1 e armazenar como primeiro dígito n1.
+3- Subtrair 10-n e armazenar como o segundo dígito n2.
+
+   #PROCESSAMENTO
+4- Apresente n1 e n2 e encerre o programa.
